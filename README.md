@@ -33,4 +33,7 @@ Créez votre fichier JavaScript
 
 ## Théorie
 
-getElementById et querySelector vous permettent de récupérer un élément de votre page HTML, si vous devez effectuer plusieurs manipulations sur cet élément, alors n'hésitez pas à le stocker dans une variable afin de ne pas réécrire à chaque fois le même code ! En tant que développeur, on évite au maximum les répétitions !!
+getElementById et querySelector vous permettent de récupérer un élément de votre page HTML,
+si vous devez effectuer plusieurs manipulations sur cet élément, alors n'hésitez pas à le stocker
+dans une variable afin de ne pas réécrire à chaque fois le même code ! En tant que développeur
+, on évite au maximum les répétitions !!

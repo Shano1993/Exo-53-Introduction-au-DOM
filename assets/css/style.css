@@ -8,6 +8,30 @@ body {
     font-size: 2rem;
 }
 
-p {
+.animation {
+    animation-name: anim;
+    animation-duration: 5s;
+    animation-delay: 500ms;
+    font-size: 2rem;
+}
 
+@keyframes anim  {
+    from {
+        font-size: 1.8rem;
+     }
+    20% {
+        font-size: 1.6rem;
+    }
+    40% {
+        font-size: 1.4rem;
+    }
+    60% {
+        font-size: 1.2rem;
+    }
+    80% {
+        font-size: 1.0rem;
+    }
+    to {
+        font-size: 0.8rem;
+    }
 }
