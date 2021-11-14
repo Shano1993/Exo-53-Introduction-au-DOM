@@ -12,6 +12,8 @@ body {
     animation-name: anim;
     animation-duration: 5s;
     animation-delay: 500ms;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
     font-size: 2rem;
 }
 
